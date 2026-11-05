@@ -1,1 +1,1 @@
-# Organizadorsimplesleo
+# Organizadorsimplesleo javascript:(function(){var s=document.createElement('script');s.src='https://1leonardoholanda.github.io/Organizadorsimplesleo/organizador-simples.js?v='+Date.now();s.onerror=function(){alert('Nao consegui carregar o organizador. Confira a internet e tente de novo.')};document.body.appendChild(s)})();
